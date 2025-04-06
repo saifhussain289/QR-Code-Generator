@@ -227,7 +227,7 @@ function App() {
 
       <footer className="mt-8 text-center text-sm text-gray-500">
         <p>© {new Date().getFullYear()} QR Code Generator. All rights reserved.</p>
-        <p className="mt-1">Generate QR codes for URLs, text, contact info, and more.</p>
+        <p className="mt-1">Generate QR codes for URLs, text, contact: saifhussain289@gmail.com for further query , and more.</p>
       </footer>
     </div>
   );

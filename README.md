@@ -1,8 +1,16 @@
-# React + TypeScript + Vite
-
 # QR Code Generator: Technical Breakdown
 
 Let me provide a comprehensive explanation of all the languages, tools, and technologies used in this QR code generator project, plus instructions for running it locally.
+
+![image](https://github.com/user-attachments/assets/6a6414e2-df2d-4836-80c8-fbc3869dc082)
+
+
+![image](https://github.com/user-attachments/assets/53908ff8-3d4c-4175-b85e-571195e94bd5)
+
+
+![image](https://github.com/user-attachments/assets/23428022-b9f6-49be-9204-90bd0a978db3)
+
+
 
 ## Languages and Technologies Used
 
